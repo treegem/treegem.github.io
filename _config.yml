@@ -29,6 +29,8 @@ twitter_username: siegbertbrown
 github_username: treegem
 instagram_username: siegbertsgb
 
+show_excerpts: true
+
 # Build settings
 theme: minima
 plugins:

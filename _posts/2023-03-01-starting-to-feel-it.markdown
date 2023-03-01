@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Starting to feel it"
+excerpt: "The reason for this blog."
 ---
 
 I've always wanted to create a game. Never felt like actually learning to do so.
