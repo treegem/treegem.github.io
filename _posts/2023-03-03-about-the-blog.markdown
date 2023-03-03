@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About the blog"
+title:  "The power of GitHub Pages and Jekyll"
 excerpt: "I'm excited to document my hopefully long journey here. This post will shed some light on the technical details of creating this blog."
 ---
 
