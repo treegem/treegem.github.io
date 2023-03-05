@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I choose you, Godot!"
-excerpt: "TODO()"
+excerpt: "I literally did a **little** research, on what game engines might be suitable and came up with a brief summary of my comparison of eight game engines. Ultimately, Godot was the winner for me."
 ---
 
 During my teenage years, my friends and I were fond of a program called RPG Maker, which was popular at the time. We used it to create a lot of amateur content just for fun. However, I never thought of it as "making games" since most of the functionality was already provided - a map editor, characters that could easily respond to arrow keys, and so on.
