@@ -10,7 +10,7 @@ excerpt: "I'm excited to document my hopefully long journey here. This post will
 
 Please forgive me starting this post with a quote. I usually hate this pretentious move, but it really surprised me, when I read the book. In my opinion, blogs were always something for people with exceptional expertise. The idea that everyone should write a blog, at least for themselves, initially caught me off guard. However, over the years, the idea has stuck with me, and that's why I'm excited to document my hopefully long journey here.
 
-I had some reservations since I had never hosted a website before and had no idea about the details. Fortunately, thanks to a friend, I found a very straightforward solution that I also use for this blog: [Github Pages](https://pages.github.com/) + [jekyll](https://jekyllrb.com/).
+I had some reservations since I had never hosted a website before and had no idea about the details. Fortunately, thanks to a friend, I found a very straightforward solution that I also use for this blog: [Github Pages](https://pages.github.com/) + [Jekyll](https://jekyllrb.com/).
 
 I probably don't have to tell any developers about GitHub anymore. But the concept of pages was new to me. You create a simple repository with the name $USERNAME.github.io and GitHub hosts it as a public website at https://$USERNAME.github.io (replace $USERNAME with your own GitHub username). With this, the hosting is already done. Free of charge. What more could you want?
 
