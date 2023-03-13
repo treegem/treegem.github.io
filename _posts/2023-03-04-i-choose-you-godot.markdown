@@ -28,4 +28,4 @@ While Unity and Unreal are known to be the most powerful general-purpose game en
 So, the remaining options are GDevelop and Godot. Both engines are suitable for creating 2D games from scratch with great customization options, and they are both open-source (MIT License) and freeware. GDevelop is based on HTML5 and JavaScript, which can sometimes limit its performance. Godot, on the other hand, is more mature with a bigger community and reasonable capabilities to create 3D games. Although both engines are similar for my current needs, I believe that Godot is the more powerful option in the long run.
 
 **And that's why I choose you, Godot!**
-<img style="float: right;" src="{{site.baseurl}}/assets/images/i-choose-you-godot.png">
+<img style="float: right;" src="{{site.baseurl}}/assets/images/2023-03/i-choose-you-godot.png">

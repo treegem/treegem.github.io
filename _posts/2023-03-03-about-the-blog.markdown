@@ -16,7 +16,7 @@ I probably don't have to tell any developers about GitHub anymore. But the conce
 
 Yeah, that's right: a custom domain, so that you can pretend professionalism to dorks like me. But again, GitHub Pages is the simple solution. You buy a cheap domain and can use it to display the GitHub Pages content. All that is needed is to [enter the custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain) in the repository under Settings -> Pages -> Custom domain:
 
-![]({{site.baseurl}}/assets/images/custom_domain.png)
+![]({{site.baseurl}}/assets/images/2023-03/custom_domain.png)
 
 At the DNS provider you only have to create a CMAKE entry that points www.sweetgeorgie.eu to $USERNAME.github.io -> done.
 
@@ -26,7 +26,7 @@ If you want to have an apex domain as a custom domain, you have to make [a few m
 
 My final settings look like this:
 
-![]({{site.baseurl}}/assets/images/custom_domain_dns.png)
+![]({{site.baseurl}}/assets/images/2023-03/custom_domain_dns.png)
 
 Since I got the domain as cheap as possible, there was no email address included initially. However, I could deliver this quite stress-free via [Zoho Mail](https://www.zoho.com/de/mail/). All you need is your own domain and [a few more settings](https://www.zoho.com/mail/help/adminconsole/email-hosting-setup.html) in the DNS provider.
 
