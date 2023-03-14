@@ -3,6 +3,7 @@ layout: post
 title:  "A Little Less Conversation, A Little More Action"
 excerpt: "After all the fuzz upfront, here are my first steps operating the game engine and the scripting language underneath."
 image: "/assets/images/2023-03/dodge_preview.gif"
+card: "summary"
 ---
 
 After the decision has been made that a game will happen, the game engine has been chosen, the blog has been set up, and

@@ -31,6 +31,9 @@ instagram_username: siegbertsgb
 
 show_excerpts: true
 
+twitter:
+  card: summary
+
 # Build settings
 theme: minima
 plugins:
