@@ -1,8 +1,20 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @import "minima";
 
-h2 {
-  border-bottom: 1px #e1e4e8 solid
+.centered-container {
+  position: relative;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+img {
+  display: block;
+  margin: auto auto 5px auto;
+}
+
+video {
+  margin-bottom: 0px;
 }

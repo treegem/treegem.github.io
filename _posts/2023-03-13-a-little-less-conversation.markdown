@@ -29,11 +29,9 @@ With this quickly acquired set of tools, the docs already invite you to
 develop [a first 2D game](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html) from
 scratch: "Dodge the Creeps!"
 
-<div style="text-align:center;">
+<div class="centered-container">
     <figure>
-        <p style="text-align:center;">
-            <img  src="{{site.baseurl}}/assets/images/2023-03/dodge_preview.gif">
-        </p>
+        <img  src="{{site.baseurl}}/assets/images/2023-03/dodge_preview.gif">
         <figcaption>"Dodge the creeps!". The first 2D game that Godot provides detailed instructions to. Taken from <a href="https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html">Godot Docs</a>. </figcaption>
     </figure>   
 </div>
@@ -41,33 +39,27 @@ scratch: "Dodge the Creeps!"
 
 It is worthwhile to have completed the two introductions mentioned above for this. The player character is assembled as its own tree of nodes, much like before, into a scene. Responding to user input is also no longer news. However, for the first time, something called "graphics" is introduced: sprites.
 
-<div style="text-align:center;">
+<div class="centered-container">
     <figure>
-        <p style="text-align:center;">
-            <img  src="{{site.baseurl}}/assets/images/2023-03/2d_tutorial_assets.png">
-        </p>
+        <img  src="{{site.baseurl}}/assets/images/2023-03/2d_tutorial_assets.png">
         <figcaption>The sprites provided by the docs. The first two can be easily assembled for the animation of the player figure. The last two combine into the mob animation.</figcaption>
     </figure>   
 </div>
 
 Two images alternating at a given frequency already constitute the entire animation. The animation only plays when the player moves and the simple animation is already perfect. Godot provides a node type called [AnimatedSprite2D](https://docs.godotengine.org/en/stable/classes/class_animatedsprite2d.html) specifically for this purpose. It has its own animation area, where you simply add the two images. You can name an animation to be able to assign it in the script and that's it.
 
-<div style="text-align:center;">
+<div class="centered-container">
     <figure>
-        <p style="text-align:center;">
-            <img  src="{{site.baseurl}}/assets/images/2023-03/animated_player.png">
-        </p>
+        <img  src="{{site.baseurl}}/assets/images/2023-03/animated_player.png">
         <figcaption>The player sprites added to the animation area of a AnimatedSprite2D node as animation frames.</figcaption>
     </figure>   
 </div>
 
 A second node type handles the registration of collisions between the player and mobs: [CollisionShape2D](https://docs.godotengine.org/en/stable/classes/class_collisionshape2d.html). It's an invisible object that you try to overlap as closely as possible with the sprite and sends signals as soon as it detects another body.
 
-<div style="text-align:center;">
+<div class="centered-container">
     <figure>
-        <p style="text-align:center;">
-            <img  src="{{site.baseurl}}/assets/images/2023-03/collision_shape.png" style="max-height: 250px;">
-        </p>
+        <img  src="{{site.baseurl}}/assets/images/2023-03/collision_shape.png" style="max-height: 250px;">
         <figcaption>The blue egg-shaped area detects collisions with other bodies and sends signals that you can react to.</figcaption>
     </figure>   
 </div>
