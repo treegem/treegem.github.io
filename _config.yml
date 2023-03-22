@@ -31,6 +31,10 @@ instagram_username: siegbertsgb
 
 show_excerpts: true
 
+toc:
+  ordered_list: true
+  sublist_class: lower-roman-sublist-class
+
 twitter:
   card: summary
 
@@ -38,6 +42,7 @@ twitter:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-toc
 
 # Exclude from processing.
 # The following items will not be processed, by default.
