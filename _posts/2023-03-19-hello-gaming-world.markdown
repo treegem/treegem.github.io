@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello, (Gaming) World!"
+title: "Hello, (Gaming) World!"
 excerpt: "Equipped with the basics, I wanted to create a small game as a finger exercise on my own. In programming
 languages, it's a common classic to output \"Hello, World!\" as a starting point. I think creating Pong is a suitable
 equivalent, like a \"Hello, Gaming World!\""
@@ -344,11 +344,11 @@ releasing the game.
 
 ### Sound
 
-Hier habe ich tatsächlich schon eine Idee. Ein Loop aus ein paar grundlegenden Akkorden einer Tonart als durchgehende
-Hintergrundmusik. Und die Paddel spielen beim Treffen nicht mehr meine Stimme ab, sondern einen Ton aus der Pentatonik
-der zugehörigen Tonart. Ich stelle mir vor, dass man dann mit den Paddeln sowas wie ein unrhythmisches Solo spielt.
+Here, I actually already have an idea. A loop of a few basic chords in a key as continuous background music. And when
+the paddles hit, they don't play my voice anymore, but a tone from the pentatonic scale of the corresponding key. I
+imagine that you could then play something like an un-rhythmic solo with the paddles.
 
-Ich habe noch nie richtig Musik produziert und habe darauf sowieso schon etwas länger Lust : )
+I've never really produced music before, but I've been wanting to do it for a while now :)
 
 ## Special Thanks
 
